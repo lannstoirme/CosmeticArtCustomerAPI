@@ -1,0 +1,16 @@
+/Users/arwenorford/Projects/CosmeticArtAPI/CosmeticArtAPI/obj/Debug/netcoreapp2.2/CosmeticArtAPI.csprojAssemblyReference.cache
+/Users/arwenorford/Projects/CosmeticArtAPI/CosmeticArtAPI/obj/Debug/netcoreapp2.2/CosmeticArtAPI.RazorAssemblyInfo.cache
+/Users/arwenorford/Projects/CosmeticArtAPI/CosmeticArtAPI/obj/Debug/netcoreapp2.2/CosmeticArtAPI.RazorAssemblyInfo.cs
+/Users/arwenorford/Projects/CosmeticArtAPI/CosmeticArtAPI/obj/Debug/netcoreapp2.2/CosmeticArtAPI.AssemblyInfoInputs.cache
+/Users/arwenorford/Projects/CosmeticArtAPI/CosmeticArtAPI/obj/Debug/netcoreapp2.2/CosmeticArtAPI.AssemblyInfo.cs
+/Users/arwenorford/Projects/CosmeticArtAPI/CosmeticArtAPI/bin/Debug/netcoreapp2.2/appsettings.Development.json
+/Users/arwenorford/Projects/CosmeticArtAPI/CosmeticArtAPI/bin/Debug/netcoreapp2.2/appsettings.json
+/Users/arwenorford/Projects/CosmeticArtAPI/CosmeticArtAPI/bin/Debug/netcoreapp2.2/Properties/launchSettings.json
+/Users/arwenorford/Projects/CosmeticArtAPI/CosmeticArtAPI/bin/Debug/netcoreapp2.2/CosmeticArtAPI.deps.json
+/Users/arwenorford/Projects/CosmeticArtAPI/CosmeticArtAPI/bin/Debug/netcoreapp2.2/CosmeticArtAPI.runtimeconfig.json
+/Users/arwenorford/Projects/CosmeticArtAPI/CosmeticArtAPI/bin/Debug/netcoreapp2.2/CosmeticArtAPI.runtimeconfig.dev.json
+/Users/arwenorford/Projects/CosmeticArtAPI/CosmeticArtAPI/bin/Debug/netcoreapp2.2/CosmeticArtAPI.dll
+/Users/arwenorford/Projects/CosmeticArtAPI/CosmeticArtAPI/bin/Debug/netcoreapp2.2/CosmeticArtAPI.pdb
+/Users/arwenorford/Projects/CosmeticArtAPI/CosmeticArtAPI/obj/Debug/netcoreapp2.2/CosmeticArtAPI.RazorTargetAssemblyInfo.cache
+/Users/arwenorford/Projects/CosmeticArtAPI/CosmeticArtAPI/obj/Debug/netcoreapp2.2/CosmeticArtAPI.dll
+/Users/arwenorford/Projects/CosmeticArtAPI/CosmeticArtAPI/obj/Debug/netcoreapp2.2/CosmeticArtAPI.pdb
